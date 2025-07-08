@@ -52,11 +52,10 @@ Extras	category_encoders,  Plotly
 📁 Directory Structure
 bash
 Copy
-Edit
+Edit # Landing page
 ├── Home.py 
 
-# Landing page
-├── pages/
+├── pages
 │   ├── price_predictor.py # Prediction module
 │   ├── analytics.py       # Dashboard visuals
 │   └── recommender.py     # Similar property recommender
