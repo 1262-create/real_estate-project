@@ -53,13 +53,19 @@ Extras	category_encoders,  Plotly
 bash
 Copy
 Edit
-├── Home.py                # Landing page
+├── Home.py 
+
+# Landing page
 ├── pages/
 │   ├── price_predictor.py # Prediction module
 │   ├── analytics.py       # Dashboard visuals
 │   └── recommender.py     # Similar property recommender
+
+
 ├── model/
 │   └── pipeline.pkl       # Trained XGBoost pipeline
+
 ├── data/
 │   └── df.pkl # Cleaned dataset
+
 └── utils/                 # Helper functions
