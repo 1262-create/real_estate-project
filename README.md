@@ -50,9 +50,7 @@ Deployment	AWS EC2
 Extras	category_encoders,  Plotly
 
 📁 Directory Structure
-bash
-Copy
-Edit # Landing page
+ # Landing page
 ├── Home.py 
 
 ├── pages
